@@ -1,10 +1,10 @@
-**English** | [中文](https://pbipred.liaolab.net/PBIPred_for_Chinese_users)
+**English** | [中文](http://pbipred.liaolab.net/PBIPred_for_Chinese_users)
 # PBIPred Tool
 The local version of PBIPred (A machine learning based preterm brain injury predictor) for multiple samples.
 # 1. Environment
 ```
 # Please run these commands in terminal and install anaconda/miniconda first
-git clone https://github.com/2019012971/PBIPred.git
+git clone https://github.com/chikit2077/PBIPred.git
 cd PBIPred
 conda create -n PBIPred python=3.9
 conda activate PBIPred
