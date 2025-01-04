@@ -32,4 +32,5 @@ optional arguments:
 The webserver version of PBIPred is provided at [http://pbipred.liaolab.net](http://pbipred.liaolab.net).
 # 6. Citation
 If you use PBIPred in your research, please cite our work:
+
 [1] He Z, Zhang R, Qu P, Meng Y, Jia J, Wang Z, Wang P, Ni Y, Shan L, Liao M, Li Y. Development and validation of an explainable model of brain injury in premature infants: A prospective cohort study. Comput Methods Programs Biomed. 2024 Dec 15;260:108559. doi: 10.1016/j.cmpb.2024.108559. 
